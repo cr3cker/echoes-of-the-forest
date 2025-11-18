@@ -1,0 +1,21 @@
+# Unreal redundant/generated stuff
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE/VS
+.vs/
+.vscode/
+*.VC.db
+*.opendb
+
+# Solutions and proj files (можно закоммитить, но обычно не надо)
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Logs, junk
+*.log
+*.tmp
